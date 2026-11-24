@@ -1,2 +1,3 @@
-# pulseboard-incident-command-center
-Full-stack SaaS uptime monitor and SLA error-budget tracker built with Python, Django, MySQL, JavaScript, and Bootstrap 5. Probes HTTP endpoints, calculates 99.9% availability budgets in real time, and publishes structured incident post-mortems.
+# PulseBoard — SaaS Uptime Monitor & Incident Command Center
+
+A full-stack status page and incident management platform built with **Django**, **MySQL**, **HTML/CSS**, **JavaScript**, and **Bootstrap 5**. Monitors HTTP endpoints, calculates 99.9% SLA error budgets, and publishes post-mortems.
